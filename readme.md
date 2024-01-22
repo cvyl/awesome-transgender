@@ -60,7 +60,7 @@ This section is dedicated to communities for transgender individuals.
 - [r/ftm](https://reddit.com/r/ftm)
 - [TransGuys](https://transguys.com)
 - [Top Surgery Guide](https://www.topsurgery.net)
-- [Hudson&rsquo;s FtM Resource Guide](http://www.ftmguide.org)
+- [Hudson's FtM Resource Guide](http://www.ftmguide.org)
 - [SRS (FtM)](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28female-to-male%29)
 - [Masculinizing hormone therapy](https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy)
 
@@ -80,7 +80,7 @@ This section shows awesome resources for helping individuals with DIY HRT
 
 
 - [DIY transgender hormone therapy](https://en.wikipedia.org/wiki/DIY_transgender_hormone_therapy)
-- ~~[DIYHRT Cafe](https://diyhrt.cafe)~~ Replaced with [HRTCafe.net](https://hrtcafe.net)
+- [HRTCafe.net](https://hrtcafe.net)
 - [hrt.coffee](https://hrt.coffee)
 - [MtFHRT@groups.io](https://groups.io/g/MTFHRT)
 - [Transfeminine Science](https://transfemscience.org)
@@ -121,7 +121,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Are the Brains of Transgender People Different from Those of Cisgender People?](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) (2018)
 - [Androgen Receptor Repeat Length Polymorphism Associated with Male-to-Female Transsexualism](https://doi.org/10.1016/j.biopsych.2008.08.033) (2008)
 - [Vaginoplasty Modifications to Improve Vulvar Aesthetics](https://doi.org/10.1016/j.ucl.2019.07.008) (2019)
-- [Male-to-female vaginoplasty: Preecha‘s surgical technique](https://doi.org/10.3109/2000656X.2014.967253) (2014)
+- [Male-to-female vaginoplasty: Preecha's surgical technique](https://doi.org/10.3109/2000656X.2014.967253) (2014)
 - WPATH: [Standards of Care for the Health of Transgender and Gender Diverse People](https://www.wpath.org/publications/soc), Version 8 (2022) \[[PDF](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644)]
 
 
