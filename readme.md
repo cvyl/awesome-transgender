@@ -66,7 +66,7 @@ This section is dedicated to communities for transgender individuals.
 
 ## Voice Training
 
-- [TransVoiceLessons](ttps://www.youtube.com/@TransVoiceLessons)
+- [TransVoiceLessons](https://www.youtube.com/@TransVoiceLessons)
 - [Voice Tools by Azalea](https://voice.hydev.org)
 
 ## DIY HRT
