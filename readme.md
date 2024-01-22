@@ -1,4 +1,4 @@
-# Awesome Transgender <!--lint ignore awesome-toc -->[![https://awesome.re](./awesome-badge.svg)](https://awesome.re)
+# Awesome Transgender <!--lint ignore ano-dead-urls -->[![https://awesome.re](./awesome-badge.svg)](https://awesome.re)
 
 > A list of LGBTQ+ resources focussed on transgender individuals
 
