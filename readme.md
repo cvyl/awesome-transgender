@@ -6,17 +6,18 @@
 ## Contents
 
 - [General Websites](#general-websites)
-- [Communities](#Communities)
-	- [Reddit](#Reddit)
-		- [MtF](#MtF)
-		- [FtM](#FtM)
+- [Communities](#communities)
+	- [Reddit](#reddit)
+		- [MtF (Male to Female)](#mtf-male-to-female)
+		- [FtM (Female to Male)](#ftm-female-to-male)
 - [Voice Training](#voice-training)
 - [DIY HRT](#diy-hrt)
-- [Organizations](#Organization)
+- [Organizations](#organizations)
 	- [Netherlands](#netherlands)
-	- [U.S.A](#usa-united-states-of-america)
+	- [U.S.A (United States of America)](#usa-united-states-of-america)
 	- [France](#france)
 - [Scientific Research](#scientific-research)
+- [Contribute](#contribute)
 
 
 ## General Websites
