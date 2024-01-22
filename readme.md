@@ -55,7 +55,7 @@ This section is dedicated to communities for transgender individuals.
 - [Feminizing hormone therapy](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)
 - [r/AskMtFHRT](https://reddit.com/r/AskMtFHRT)
 
-### FtM (Female to Male)
+#### FtM (Female to Male)
 
 - [r/ftm](https://reddit.com/r/ftm)
 - [TransGuys](https://transguys.com)
