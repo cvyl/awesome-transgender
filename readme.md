@@ -7,15 +7,13 @@
 ## Contents
 
 - [General Websites](#general-websites)
-- [Communities](#communities)
+- [Social Media](#communities)
 	- [Reddit](#reddit)
  	- [Mastodon](#mastodon)
-		- [Servers](#servers)
-		- [Accounts](#accounts)
 	- [Misskey](#misskey)
-	- [Transition-Specific Communities](#transition-specific-communities)
-		- [MtF (Male to Female)](#mtf-male-to-female)
-		- [FtM (Female to Male)](#ftm-female-to-male)
+- [Transition-Specific Communities](#transition-specific-communities)
+	- [MtF (Male to Female)](#mtf-male-to-female)
+	- [FtM (Female to Male)](#ftm-female-to-male)
 - [Organizations](#organizations)
 	- [International](#international)
 	- [Netherlands](#netherlands)
@@ -44,6 +42,7 @@ This section includes general websites for transgender individuals. If the langu
 - [For Trans People](https://actionfortranshealth.org.uk/resources/for-trans-people/)
 - [Trans Media Watch - Timeline](https://transmediawatch.org/a-trans-timeline)
 - [QueerMap](https://map.qiekub.org/)
+- [Susan's Place](https://www.susans.org/)
 
 [#contents|▲ Top]
 
@@ -53,9 +52,15 @@ This section is dedicated to communities for transgender individuals.
 
 ### Mastodon
 
-#### Servers
+For more information, see [Fedi.Tips](http://www.fedi.tips).
 
-This is a brief list of notable LGBTQ+ & Trans-focused servers on the Twitter-like FOSS microblogging network [Mastodon](https://github.com/mastodon/mastodon). For more information, see [Fedi.Tips](http://www.fedi.tips). See also [Misskey](#misskey).
+- [The Trans Fediverse](https://transfediverse.org/)
+- [A (partial) queer, trans, and non-binary history of Mastodon and the Fediverse](https://wedistribute.org/2023/06/a-partial-queer-trans-and-non-binary-history-of-mastodon-and-the-fediverse/)
+- [We're here, we're queer, and we're Federated: How queer, trans, and non-binary people helped create Mastodon and are shaping today's Fediverse](https://privacy.thenexus.today/here-queer-and-federated-on-mastodon-and-the-fediverse/)
+
+**Servers**
+
+This is a brief list of notable LGBTQ+ & Trans-focused servers on the Twitter-like FOSS microblogging network [Mastodon](https://github.com/mastodon/mastodon). See also [Misskey](#misskey).
 
 - [tech.lgbt](https://tech.lgbt/) - We welcome all marginalized identities. This Mastodon instance is generally for folks who are LGBTQIA+ and Allies with an interest in tech work, academics, or technology in general.
 - [eightpoint.app](https://eightpoint.app/) - A general mastodon instance for former Twitter users. However, it seems very popular with trans femmes, so keep that in mind.
@@ -69,19 +74,19 @@ This is a brief list of notable LGBTQ+ & Trans-focused servers on the Twitter-li
 - [chaosfem.tw](https://chaosfem.tw/) - Another transfem server. Rules: 1. No buttheads.
 - [yiff.life](https://yiff.life/) - Yiff.Life is oriented towards those in the furry and LGBTQA+ communities.
 
-[#contents|▲ Top]
-
-#### Accounts
+**Notable Accounts**
 
 - [Louisiana Trans Oral History](https://glammr.us/@LouisianaTransOralHistory) - Trans-run project to collect, preserve, and promote the voices of Louisiana's transgender and gender nonconforming voices.
 - [Mapping Trans Joy](https://tech.lgbt/@mappingtransjoy) - A joy-as-resistance project to reimagine our geographies through a lens of trans joy. We belong here. We belong everywhere.
 - [Solidarity History](https://glammr.us/@SolidarityHistory) - We're a group of history workers (archivists, librarians, oral historians, & GLAM professionals) and other storytellers who are figuring out how to work in solidarity with the communities and causes we love. (In short: How do we use our skills in solidarity with our communities?) .
 - [TransActualUK](https://mastodon.social/@transactualuk) - UK based advocacy group.
+- [Trans Radio UK](https://mastodon.social/@TransRadioUK) - Worldwide radio station for and by the transgender and LGBT community.
 
 [#contents|▲ Top]
 
 ### Reddit
 
+- [List of Resources from r/TransResources](https://www.reddit.com/r/Trans_Resources/wiki/support/index/#wiki_connecting_to_others)
 - [r/TransWiki](https://www.reddit.com/r/TransWiki)
 - [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
 - [r/TransDIY](https://reddit.com/r/TransDIY)
@@ -98,9 +103,9 @@ This is a brief list of notable LGBTQ+ & Trans-focused servers on the Twitter-li
 
 [#contents|▲ Top]
 
-### Transition-Specific Communities
+## Transition-Specific Communities
 
-#### MtF (Male to Female)
+### MtF (Male to Female)
 
 - [r/mtf](https://reddit.com/r/mtf)
 - [SRS (MtF)](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28male-to-female%29)
@@ -109,7 +114,7 @@ This is a brief list of notable LGBTQ+ & Trans-focused servers on the Twitter-li
 
 [#contents|▲ Top]
 
-#### FtM (Female to Male)
+### FtM (Female to Male)
 
 - [r/ftm](https://reddit.com/r/ftm)
 - [TransGuys](https://transguys.com)
