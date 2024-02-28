@@ -8,8 +8,8 @@
 - [General Websites](#general-websites)
 - [Communities](#communities)
 	- [Reddit](#reddit)
-		- [MtF (Male to Female)](#mtf-male-to-female)
-		- [FtM (Female to Male)](#ftm-female-to-male)
+	- [MtF (Male to Female)](#mtf-male-to-female)
+	- [FtM (Female to Male)](#ftm-female-to-male)
 - [Voice Training](#voice-training)
 - [DIY HRT](#diy-hrt)
 - [Organizations](#organizations)
@@ -47,14 +47,14 @@ This section is dedicated to communities for transgender individuals.
 - [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
 - [r/TransDIY](https://reddit.com/r/TransDIY)
 
-#### MtF (Male to Female)
+### MtF (Male to Female)
 
 - [r/mtf](https://reddit.com/r/mtf)
 - [SRS (MtF)](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28male-to-female%29)
 - [Feminizing hormone therapy](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)
 - [r/AskMtFHRT](https://reddit.com/r/AskMtFHRT)
 
-#### FtM (Female to Male)
+### FtM (Female to Male)
 
 - [r/ftm](https://reddit.com/r/ftm)
 - [TransGuys](https://transguys.com)
