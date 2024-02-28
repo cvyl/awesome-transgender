@@ -1,0 +1,26 @@
+name: Awesome Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    types: [opened, synchronize]
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Run Awesome Linter
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+    - name: Install Awesome Lint
+      run: npm install -g awesome-lint
+    - name: Run Awesome Lint
+      run: awesome-lint readme.md
