@@ -17,7 +17,6 @@
 	- [U.S.A (United States of America)](#usa-united-states-of-america)
 	- [France](#france)
 - [Scientific Research](#scientific-research)
-- [Contribute](#contribute)
 
 
 ## General Websites
@@ -127,6 +126,6 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
