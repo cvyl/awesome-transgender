@@ -71,6 +71,14 @@ This section is dedicated to communities for transgender individuals.
 - [Masculinizing hormone therapy](https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy)
 - [!ftm@lemmy.blahaj.zone](https://lemmy.blahaj.zone/c/ftm)
 
+
+## Clothing
+- [Rubyshines](https://rubyshines.com/)
+
+### Binders
+- [Underworks](https://www.underworks.com/)
+
+
 ## Voice Training
 
 - [TransVoiceLessons](https://www.youtube.com/@TransVoiceLessons)
