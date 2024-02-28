@@ -8,6 +8,7 @@
 - [General Websites](#general-websites)
 - [Communities](#communities)
 	- [Reddit](#reddit)
+	- [Lemmy](#lemmy)
 	- [MtF (Male to Female)](#mtf-male-to-female)
 	- [FtM (Female to Male)](#ftm-female-to-male)
 - [Voice Training](#voice-training)
@@ -47,12 +48,18 @@ This section is dedicated to communities for transgender individuals.
 - [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
 - [r/TransDIY](https://reddit.com/r/TransDIY)
 
+### Lemmy
+
+- [!transgender@lemmy.ml](https://lemmy.ml/c/transgender)
+- [!trans@lemmy.blahaj.zone](https://lemmy.blahaj.zone/c/trans)
+
 ### MtF (Male to Female)
 
 - [r/mtf](https://reddit.com/r/mtf)
 - [SRS (MtF)](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28male-to-female%29)
 - [Feminizing hormone therapy](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)
 - [r/AskMtFHRT](https://reddit.com/r/AskMtFHRT)
+- [!mtf@lemmy.blahaj.zone](https://lemmy.blahaj.zone/c/mtf)
 
 ### FtM (Female to Male)
 
@@ -62,7 +69,7 @@ This section is dedicated to communities for transgender individuals.
 - [Hudson's FtM Resource Guide](http://www.ftmguide.org)
 - [SRS (FtM)](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28female-to-male%29)
 - [Masculinizing hormone therapy](https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy)
-
+- [!ftm@lemmy.blahaj.zone](https://lemmy.blahaj.zone/c/ftm)
 
 ## Voice Training
 
