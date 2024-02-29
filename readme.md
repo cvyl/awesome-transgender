@@ -73,9 +73,12 @@ This section is dedicated to communities for transgender individuals.
 
 
 ## Clothing
+
+This section shows awesome resources for finding trans-specific clothing
 - [Rubyshines](https://rubyshines.com/)
 
 ### Binders
+
 - [Underworks](https://www.underworks.com/)
 
 
