@@ -37,7 +37,6 @@ This section includes general websites for transgender individuals. If the langu
 - [QueerMap](https://map.qiekub.org/)
 
 
-
 ## Communities
 
 This section is dedicated to communities for transgender individuals.
@@ -72,16 +71,6 @@ This section is dedicated to communities for transgender individuals.
 - [!ftm@lemmy.blahaj.zone](https://lemmy.blahaj.zone/c/ftm)
 
 
-## Clothing
-
-This section shows awesome resources for finding trans-specific clothing
-- [Rubyshines](https://rubyshines.com/)
-
-### Binders
-
-- [Underworks](https://www.underworks.com/)
-
-
 ## Voice Training
 
 - [TransVoiceLessons](https://www.youtube.com/@TransVoiceLessons)
@@ -103,6 +92,7 @@ This section shows awesome resources for helping individuals with DIY HRT
 - [hrt.coffee](https://hrt.coffee)
 - [MtFHRT@groups.io](https://groups.io/g/MTFHRT)
 - [Transfeminine Science](https://transfemscience.org)
+
 
 ## Organizations
 
@@ -135,6 +125,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 - [Wiki Trans](https://wikitrans.co) (French)
 
+
 ## Scientific Research
 
 - [Are the Brains of Transgender People Different from Those of Cisgender People?](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) (2018)
@@ -142,6 +133,17 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Vaginoplasty Modifications to Improve Vulvar Aesthetics](https://doi.org/10.1016/j.ucl.2019.07.008) (2019)
 - [Male-to-female vaginoplasty: Preecha's surgical technique](https://doi.org/10.3109/2000656X.2014.967253) (2014)
 - WPATH: [Standards of Care for the Health of Transgender and Gender Diverse People](https://www.wpath.org/publications/soc), Version 8 (2022) \[[PDF](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644)]
+
+
+## Clothing
+
+This section shows awesome resources for finding trans-specific clothing
+
+- [Rubyshines](https://rubyshines.com/)
+
+### Binders
+
+- [Underworks](https://www.underworks.com/)
 
 
 
