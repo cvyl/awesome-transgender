@@ -1,6 +1,6 @@
 # Awesome Transgender [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Transgender Flag](https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg)
 
-> A list of LGBTQ+ resources focused on transgender individuals
+> A comprehensive list of resources focused on supporting transgender individuals, including community links, educational materials, and health resources.
 
 ## Contents
 
@@ -19,7 +19,6 @@
 - [Scientific Research](#scientific-research)
 - [Clothing](#clothing)
 
-
 ## General Websites
 
 This section includes general websites for transgender individuals. If the language of the website is not in English, it'll be displayed.
@@ -35,7 +34,6 @@ This section includes general websites for transgender individuals. If the langu
 - [For Trans People](https://actionfortranshealth.org.uk/resources/for-trans-people/) - Collection of resources to support trans health and rights.
 - [Trans Media Watch - Timeline](https://transmediawatch.org/a-trans-timeline) - A timeline detailing significant media events related to transgender issues.
 - [QueerMap](https://map.qiekub.org/) - Map helping LGBTQ+ people find resources and safe spaces.
-
 
 ## Communities
 
@@ -70,13 +68,11 @@ This section is dedicated to communities for transgender individuals.
 - [Masculinizing hormone therapy](https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy) - Guide to hormone therapy for FtM individuals.
 - [!ftm@lemmy.blahaj.zone](https://lemmy.blahaj.zone/c/ftm) - Lemmy community focused on FtM topics.
 
-
 ## Voice Training
 
 - [TransVoiceLessons](https://www.youtube.com/@TransVoiceLessons) - YouTube channel offering voice training for trans individuals.
 - [Voice Tools by Azalea](https://voice.hydev.org) - Voice training tool and exercises.
 - [Acoustic Gender](https://acousticgender.space/) - Resource for understanding and achieving vocal gender congruence.
-
 
 ## DIY HRT
 
@@ -90,7 +86,6 @@ This section shows awesome resources for helping individuals with DIY HRT.
 - [hrt.coffee](https://hrt.coffee) - DIY HRT information and discussion platform.
 - [MtFHRT@groups.io](https://groups.io/g/MTFHRT) - Mailing list for MtF HRT discussions.
 - [Transfeminine Science](https://transfemscience.org) - Scientific resource on transfeminine hormone therapy.
-
 
 ## Organizations
 
@@ -123,7 +118,6 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 - [Wiki Trans](https://wikitrans.co) (French) - Wiki-style resource on transgender topics in French.
 
-
 ## Scientific Research
 
 - [Are the Brains of Transgender People Different from Those of Cisgender People?](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) (2018) - Research on neurological differences.
@@ -131,7 +125,6 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Vaginoplasty Modifications to Improve Vulvar Aesthetics](https://doi.org/10.1016/j.ucl.2019.07.008) (2019) - Surgical advancements for vulvar aesthetics.
 - [Male-to-female vaginoplasty: Preecha's surgical technique](https://doi.org/10.3109/2000656X.2014.967253) (2014) - Preecha's approach to MtF vaginoplasty.
 - WPATH: [Standards of Care for the Health of Transgender and Gender Diverse People](https://www.wpath.org/publications/soc), Version 8 (2022) \[[PDF](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644)] - Global standards for transgender healthcare.
-
 
 ## Clothing
 
@@ -142,7 +135,6 @@ This section shows awesome resources for finding trans-specific clothing.
 ### Binders
 
 - [Underworks](https://www.underworks.com/) - Binders for safe chest compression.
-
 
 ## Contributing
 
