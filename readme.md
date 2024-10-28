@@ -6,16 +6,16 @@
 
 - [General Websites](#general-websites)
 - [Communities](#communities)
-	- [Reddit](#reddit)
-	- [Lemmy](#lemmy)
-	- [MtF (Male to Female)](#mtf-male-to-female)
-	- [FtM (Female to Male)](#ftm-female-to-male)
+  - [Reddit](#reddit)
+  - [Lemmy](#lemmy)
+  - [MtF (Male to Female)](#mtf-male-to-female)
+  - [FtM (Female to Male)](#ftm-female-to-male)
 - [Voice Training](#voice-training)
 - [DIY HRT](#diy-hrt)
 - [Organizations](#organizations)
-	- [Netherlands](#netherlands)
-	- [U.S.A (United States of America)](#usa-united-states-of-america)
-	- [France](#france)
+  - [Netherlands](#netherlands)
+  - [U.S.A (United States of America)](#usa-united-states-of-america)
+  - [France](#france)
 - [Scientific Research](#scientific-research)
 - [Clothing](#clothing)
 
@@ -79,8 +79,8 @@ This section is dedicated to communities for transgender individuals.
 This section shows awesome resources for helping individuals with DIY HRT.
 
 - [DIY HRT Directory](https://diyhrt.wiki/) - Directory of resources on DIY hormone replacement therapy.
-	- [Transfem Guide](https://diyhrt.wiki/transfem) - Guide for transfeminine individuals.
-	- [Transmasc](https://diyhrt.wiki/transmasc) - Guide for transmasculine individuals.
+  - [Transfem Guide](https://diyhrt.wiki/transfem) - Guide for transfeminine individuals.
+  - [Transmasc](https://diyhrt.wiki/transmasc) - Guide for transmasculine individuals.
 - [DIY transgender hormone therapy](https://en.wikipedia.org/wiki/DIY_transgender_hormone_therapy) - Overview of DIY hormone therapy.
 - [HRTCafe.net](https://hrtcafe.net) - Community for those exploring DIY HRT.
 - [hrt.coffee](https://hrt.coffee) - DIY HRT information and discussion platform.
