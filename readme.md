@@ -104,8 +104,9 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [The Hangout 101](http://thehang-out010.weebly.com/) - Dutch community space for LGBTQ+ youth.
 - [Gender Dysforie VUMC](https://www.vumc.nl/zorg/expertisecentra-en-specialismen/kennis-en-zorgcentrum-genderdysforie.htm) (Dutch) - Dutch medical center for gender dysphoria.
 - [Gender Dysforie UMCG](https://www.umcg.nl/-/genderdysforie) (Dutch) - Another gender dysphoria treatment center in the Netherlands.
-- [Radboudumc - Transgender Healthcare](https://www.radboudumc.nl/expertisecentra/geslacht-en-gender/transgenderzorg) - Dutch medical center specializing in transgender healthcare.
-- [Trans in Eigen Hand](https://transineigenhand.nl/) - Dutch resource providing information and guidance for transgender individuals exploring DIY hormone therapy and healthcare options in a safe, informed manner.
+- [Radboudumc - Transgender Healthcare](https://www.radboudumc.nl/expertisecentra/geslacht-en-gender/transgenderzorg) - Dutch medical center offering specialized transgender healthcare, including medical guidance and support throughout the transition process.
+- [Trans in Eigen Hand](https://transineigenhand.nl/) - Dutch organization providing resources and guidance for general practitioners to support transgender patients in accessing hormone therapy, along with up-to-date information on waitlists for gender-affirming care in the Netherlands.
+
 
 ### U.S.A (United States of America)
 
