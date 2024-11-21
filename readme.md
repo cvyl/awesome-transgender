@@ -1,6 +1,6 @@
 # Awesome Transgender [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Transgender Flag](https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg)
 
-> A comprehensive list of resources focused on supporting transgender individuals, including community links, educational materials, and health resources.
+> Someone whose gender identity differs from their assigned birth sex.
 
 ## Contents
 
