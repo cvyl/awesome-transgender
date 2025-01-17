@@ -16,6 +16,7 @@
   - [Netherlands](#netherlands)
   - [U.S.A (United States of America)](#usa-united-states-of-america)
   - [France](#france)
+  - [China](#china)
 - [Scientific Research](#scientific-research)
 - [Clothing](#clothing)
 
@@ -107,7 +108,6 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Radboudumc - Transgender Healthcare](https://www.radboudumc.nl/expertisecentra/geslacht-en-gender/transgenderzorg) - Dutch medical center offering specialized transgender healthcare, including medical guidance and support throughout the transition process.
 - [Trans in Eigen Hand](https://transineigenhand.nl/) - Dutch organization providing resources and guidance for general practitioners to support transgender patients in accessing hormone therapy, along with up-to-date information on waitlists for gender-affirming care in the Netherlands.
 
-
 ### U.S.A (United States of America)
 
 - [American Psychological Association (APA)](https://www.apa.org/topics/lgbtq) - APA's resources on LGBTQ+ topics.
@@ -120,6 +120,10 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 ### France
 
 - [Wiki Trans](https://wikitrans.co) (French) - Wiki-style resource on transgender topics in French.
+
+### China
+
+- [Chinese Gender diversity digital library](https://transchinese.org) - A digital collection of Chinese transgender resources.
 
 ## Scientific Research
 
