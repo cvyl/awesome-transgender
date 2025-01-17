@@ -121,6 +121,10 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 - [Wiki Trans](https://wikitrans.co) (French) - Wiki-style resource on transgender topics in French.
 
+### China
+
+- [Chinese Gender diversity digital library](https://transchinese.org) - A digital collection of Chinese transgender resources 
+
 ## Scientific Research
 
 - [Are the Brains of Transgender People Different from Those of Cisgender People?](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) (2018) - Research on neurological differences.
