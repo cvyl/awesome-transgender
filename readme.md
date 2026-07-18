@@ -35,6 +35,7 @@ This section includes general websites for transgender individuals. If the langu
 - [For Trans People](https://actionfortranshealth.org.uk/resources/for-trans-people/) - Collection of resources to support trans health and rights.
 - [Trans Media Watch - Timeline](https://transmediawatch.org/a-trans-timeline) - A timeline detailing significant media events related to transgender issues.
 - [QueerMap](https://map.qiekub.org/) - Map helping LGBTQ+ people find resources and safe spaces.
+- [InfoTrans](https://www.infotrans.it) - National map of transgender-related services in Italy. (In Italian.)
 
 ## Communities
 
@@ -93,8 +94,16 @@ This section shows awesome resources for helping individuals with DIY HRT.
 Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 - [The World Professional Association for Transgender Health (WPATH)](https://www.wpath.org) - Sets global standards for transgender health.
-- [Massachusetts Transgender Political Coalition (MTPC)](https://www.masstpc.org) - Advocacy group for transgender rights in Massachusetts.
 - [Transgender Teen Survival Guide](https://transgenderteensurvivalguide.com) - Guide and support for transgender teens.
+
+### Italy
+
+- [MIT Italia](https://mit-italia.it) - Oldest organization in Italy offering legal, health, and general support for queer and transgender people.
+- [Italia Trans Agenda](https://www.italiatransagenda.it) - Organization advocating for visibility of transgender and non-binary people in Italy.
+
+### Germany
+
+- [Trans* mit Kind](https://www.bundesverband-trans.de/publikationen/trans-mit-kind/) - German organization focussing on transgender people who have or want children.
 
 ### Netherlands
 
@@ -116,6 +125,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Gender Analysis](https://genderanalysis.net) - Focuses on transgender issues from a critical perspective.
 - [Gender Spectrum](http://www.genderspectrum.org) - Provides support and education around gender diversity.
 - [Sylvia Rivera Law Project](https://srlp.org) - Law project supporting low-income transgender people.
+- [Massachusetts Transgender Political Coalition (MTPC)](https://www.masstpc.org) - Advocacy group for transgender rights in Massachusetts.
 
 ### France
 
@@ -132,6 +142,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Vaginoplasty Modifications to Improve Vulvar Aesthetics](https://doi.org/10.1016/j.ucl.2019.07.008) (2019) - Surgical advancements for vulvar aesthetics.
 - [Male-to-female vaginoplasty: Preecha's surgical technique](https://doi.org/10.3109/2000656X.2014.967253) (2014) - Preecha's approach to MtF vaginoplasty.
 - WPATH: [Standards of Care for the Health of Transgender and Gender Diverse People](https://www.wpath.org/publications/soc), Version 8 (2022) \[[PDF](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644)] - Global standards for transgender healthcare.
+- [Transfeminine Science](https://transfemscience.org) - Collection of aggregated studies on MtF hormone therapy.
 
 ## Clothing
 
