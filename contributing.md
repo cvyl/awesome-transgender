@@ -11,6 +11,10 @@ Ensure your pull request adheres to the following guidelines:
 - Make sure you take care of this
 - And this as well
 - And don't forget to check this
+- Install and use [pre-commit](https://pre-commit.com) so `awesome-lint` runs before each commit:
+  - `python -m pip install pre-commit`
+  - `pre-commit install`
+  - `pre-commit run --all-files`
 
 Thank you for your suggestions!
 

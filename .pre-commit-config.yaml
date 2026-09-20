@@ -1,0 +1,10 @@
+repos:
+  - repo: local
+    hooks:
+      - id: awesome-lint
+        name: awesome-lint
+        entry: awesome-lint readme.md
+        language: node
+        additional_dependencies:
+          - awesome-lint@2.3.0
+        pass_filenames: false
