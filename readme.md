@@ -103,7 +103,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [COC](https://coc.nl/engels) - LGBTQ+ organization in the Netherlands.
 - [T-Nederland](https://t-nederland.nl/) (Dutch) - Dutch transgender support organization.
 - [Transgender Netwerk](https://www.transgendernetwerk.nl/) (Dutch) - Dutch network for transgender rights.
-- [The Hangout 101](http://thehang-out010.weebly.com/) - Dutch community space for LGBTQ+ youth.
+- [Hang Out 010](https://www.forallwholove.com/projects/hangout-010/) - LGBTQIA+ youth meeting place and safer space in Rotterdam.
 - [Gender Dysforie VUMC](https://www.vumc.nl/zorg/expertisecentra-en-specialismen/kennis-en-zorgcentrum-genderdysforie.htm) (Dutch) - Dutch medical center for gender dysphoria.
 - [Gender Dysforie UMCG](https://www.umcg.nl/-/genderdysforie) (Dutch) - Another gender dysphoria treatment center in the Netherlands.
 - [Radboudumc - Transgender Healthcare](https://www.radboudumc.nl/expertisecentra/geslacht-en-gender/transgenderzorg) - Dutch medical center offering specialized transgender healthcare, including medical guidance and support throughout the transition process.
