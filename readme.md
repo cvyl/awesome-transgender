@@ -143,7 +143,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 This section shows awesome resources for finding trans-specific clothing.
 
 - [Rubyshines](https://rubyshines.com) - Clothing designed for transgender individuals.
-- [A Bra That Fits](https://www.abrathatfits.org/calculator) - bra calculator, helping to find proper bra for **all** kind of women.
+- [A Bra That Fits](https://www.abrathatfits.org/calculator) - Bra calculator, helping to find proper bra for **all** kind of women.
 
 ### Binders
 
