@@ -83,6 +83,7 @@ This section shows awesome resources for helping individuals with DIY HRT.
 - [DIY HRT Directory](https://diyhrt.wiki/) - Directory of resources on DIY hormone replacement therapy.
   - [Transfem Guide](https://diyhrt.wiki/transfem) - Guide for transfeminine individuals.
   - [Transmasc](https://diyhrt.wiki/transmasc) - Guide for transmasculine individuals.
+- [The DIY HRT Directory 2.0](https://diyhrt.info/) - A safer use guide on how to perform DIY Hormone Replacement Therapy.
 - [DIY transgender hormone therapy](https://en.wikipedia.org/wiki/DIY_transgender_hormone_therapy) - Overview of DIY hormone therapy.
 - [HRTCafe.net](https://hrtcafe.net) - Community for those exploring DIY HRT.
 - [hrt.coffee](https://hrt.coffee) - DIY HRT information and discussion platform.
