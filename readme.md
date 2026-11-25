@@ -75,6 +75,7 @@ This section is dedicated to communities for transgender individuals.
 - [TransVoiceLessons](https://www.youtube.com/@TransVoiceLessons) - YouTube channel offering voice training for trans individuals.
 - [Voice Tools by Azalea](https://voice.hydev.org) - Voice training tool and exercises.
 - [Acoustic Gender](https://acousticgender.space/) - Resource for understanding and achieving vocal gender congruence.
+- [Hum](https://hum.lgbt) - Free browser app for voice training. Measures pitch, resonance and weight on your device.
 
 ## DIY HRT
 
